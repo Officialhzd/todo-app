@@ -49,18 +49,6 @@ Use due dates to get reminders for what’s urgent.
 
 Don't forget to install rich for a better UI experience.
 
-## 📌 Example Output
-
-Tasks for 2025-05-06
-
-╔════╦════════════════════╦══════════════════╦════════════╗
-║ ID ║ Title              ║ Due Date         ║ Status     ║
-╠════╬════════════════════╬══════════════════╬════════════╣
-║ A  ║ Buy groceries      ║ 2025-05-08       ║            ║
-║ B  ║ Clean workspace    ║ 2025-05-06       ║ DUE TODAY  ║
-║ C  ║ File tax report    ║ 2025-05-01       ║ OVERDUE    ║
-╚════╩════════════════════╩══════════════════╩════════════╝
-
 
 ## 🧠 Future Improvements (Optional Ideas)
  Add task completion marking.
